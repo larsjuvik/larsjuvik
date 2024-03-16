@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larsjuvik
-- 👀 I’m interested in .NET, Python 3 and Rust!
+- 👀 I’m interested in .NET, Next.js, Python 3 and Rust!
 - 🌱 I’m currently learning Rust!
 
 <!---
