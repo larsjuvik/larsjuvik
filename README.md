@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @larsjuvik
+- Author of tallene.no
 - 👀 I’m interested in .NET, Next.js, Python 3 and Rust!
 - 🌱 I’m currently learning Rust!
 
