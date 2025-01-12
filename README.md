@@ -14,5 +14,5 @@
 
 ## Apps 💻
 
-* __hasher__ - an applicatio for hashing and verifying your files, comes in GUI and Console-flavours
+* __hasher__ - an application for hashing and verifying your files, comes in GUI and Console-flavours
 * __game-of-life__ - a simple Game of Life-implementation in Rust
