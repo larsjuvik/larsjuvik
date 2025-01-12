@@ -11,3 +11,8 @@
 
 * __tallene.no__ - a webpage for checking Norwegian economic numbers
 * __jsonsharpener.com__ - a webpage for converting JSON to C# classes
+
+## Apps 💻
+
+* __hasher__ - an applicatio for hashing and verifying your files, comes in GUI and Console-flavours
+* __game-of-life__ - a simple Game of Life-implementation in Rust
