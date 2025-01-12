@@ -7,12 +7,13 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-## Websites 🌐
+## Published Websites 🌐
 
 * __tallene.no__ - a webpage for checking Norwegian economic numbers
 * __jsonsharpener.com__ - a webpage for converting JSON to C# classes
 
-## Apps 💻
+## Other apps 💻
 
 * __hasher__ - an application for hashing and verifying your files, comes in GUI and Console-flavours
 * __game-of-life__ - a simple Game of Life-implementation in Rust
+* __bank-system__ - a webpage for simulating a bank system, written in .NET Blazor
