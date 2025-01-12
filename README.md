@@ -10,7 +10,7 @@
 ## Published Websites 🌐
 
 * __tallene.no__ - a webpage for checking Norwegian economic numbers
-* __jsonsharpener.com__ - a webpage for converting JSON to C# classes
+* __jsonsharpener.com__ - a webpage for converting JSON to C# classes, using Rust+WebAssembly as parsing-engine
 
 ## Other apps 💻
 
